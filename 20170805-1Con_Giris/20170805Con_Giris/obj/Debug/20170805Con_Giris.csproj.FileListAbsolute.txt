@@ -1,0 +1,6 @@
+C:\Users\Echo\OneDrive\Hakan Csharp\20170805Con_Giris\20170805Con_Giris\bin\Debug\20170805Con_Giris.exe.config
+C:\Users\Echo\OneDrive\Hakan Csharp\20170805Con_Giris\20170805Con_Giris\obj\Debug\20170805Con_Giris.csprojResolveAssemblyReference.cache
+C:\Users\Echo\OneDrive\Hakan Csharp\20170805Con_Giris\20170805Con_Giris\bin\Debug\20170805Con_Giris.exe
+C:\Users\Echo\OneDrive\Hakan Csharp\20170805Con_Giris\20170805Con_Giris\bin\Debug\20170805Con_Giris.pdb
+C:\Users\Echo\OneDrive\Hakan Csharp\20170805Con_Giris\20170805Con_Giris\obj\Debug\20170805Con_Giris.exe
+C:\Users\Echo\OneDrive\Hakan Csharp\20170805Con_Giris\20170805Con_Giris\obj\Debug\20170805Con_Giris.pdb
